@@ -206,7 +206,7 @@ Submit a link below to the [github repo](https://github.com/TheOdinProject/curri
 * [Matt Miller's Solution](https://github.com/mattmiller1989/Productivity-Timer/) - [View in Browser](https://mattmiller1989.github.io/Productivity-Timer/)
 * [meganeb-afk's Solution](https://github.com/meganeb-afk/Pomodoro)- [View in Browser](https://meganeb-afk/github.io/Pomodoro/)
 </details>
-
+* [Ronalgio's Solution](https://github.com/Ronalgio/pomodoro-clock) -[View in Browser](https://ronalgio.github.io/pomodoro-clock.github.io/)
 ### Next Steps
 
 Congratulations! You now know how to pair program and have created a real project with that partner. Maybe you got along great, maybe you didn't. If you didn't, go back to the [Pairing Category](https://forum.theodinproject.com/c/pairs) and see if you can find another person to pair with. Either way, we encourage you to keep on pairing for the rest of the lessons and projects in the Odin Project. You will learn more, and produce better code. Not to mention, you will be developing experience in a skill that many employers look for!
